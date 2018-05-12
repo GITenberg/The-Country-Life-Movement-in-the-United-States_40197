@@ -1,0 +1,29 @@
+_repo: The-Country-Life-Movement-in-the-United-States_40197
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40197-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bailey, L. H. (Liberty Hyde)
+    alias: Bailey, Liberty Hyde
+    birthdate: 1858
+    deathdate: 1954
+    gutenberg_agent_id: '3089'
+    url: http://www.gutenberg.org/2009/agents/3089
+    wikipedia: http://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40197'
+  lccn: '11007239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Country life'
+title: The Country-Life Movement in the United States
+url: http://www.gutenberg.org/ebooks/40197
